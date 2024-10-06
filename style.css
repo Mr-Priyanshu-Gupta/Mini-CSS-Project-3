@@ -1,0 +1,31 @@
+*{
+    align-items: center;
+}
+div{
+    height: 200px;
+    width: 500px;
+    background-color: pink;
+    border-width: 5px;
+    border-style: solid;
+    border-radius: 15px;
+    padding-top: 30px;
+    margin-bottom: 50px;
+    margin-top: 10px;
+    /* border: 3px double pink;
+    border-left-color: gold;
+    border-left-style: groove; */
+}
+h1{
+    border-width: 2px;
+    border-style: dashed;
+    border-color: blueviolet;
+}
+button{
+    border: 3px black solid ;
+    border-radius: 10px;
+    /* height: 10px;
+    width: 10px; */
+    padding-left: 25px;
+    padding-right: 25px;
+
+}
