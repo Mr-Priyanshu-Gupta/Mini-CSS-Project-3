@@ -1,0 +1,27 @@
+#outer{
+    height: 200px;
+    width: 70px;
+    border: 2px solid black;
+    margin: 10;
+}
+.inner{
+    height: 50px;
+    width: 50px;
+    border: 2px solid black;
+    margin: 10px;
+}
+#a1{
+    /* color: red; */
+    background-color: red;
+    border-radius: 100%;
+}
+#a2{
+    /* color: yellow; */
+    background-color: yellow;
+    border-radius: 100%;
+}
+#a3{
+    /* color: green; */
+    background-color: green;
+    border-radius: 100%;
+}
